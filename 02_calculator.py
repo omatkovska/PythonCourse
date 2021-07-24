@@ -28,7 +28,7 @@ if 0 < operation_number <= 5:
     elif operation_number == 5:
         result = a ** b
 elif 5 < operation_number < 9:
-    c = int(input())
+    c = int(input("Введіть число для виконання операції"))
     if operation_number == 6:
         result = math.sin(c)
     elif operation_number == 7:

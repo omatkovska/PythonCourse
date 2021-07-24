@@ -37,8 +37,3 @@ elif 5 < operation_number < 9:
         result = math.tan(c)
 
 print(result)
-
-
-
-
-
